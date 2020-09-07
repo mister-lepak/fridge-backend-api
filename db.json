@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "description": "few",
+      "expiryDateMonth": "2",
+      "expiryDateYear": "2020",
+      "category": "Fridge",
+      "id": 1
+    },
+    {
+      "description": "bread",
+      "expiryDateMonth": "1",
+      "expiryDateYear": "2022",
+      "category": "Freezer",
+      "id": 2
+    },
+    {
+      "description": "test",
+      "expiryDateMonth": "2",
+      "expiryDateYear": "2020",
+      "category": "Fridge",
+      "id": 3
+    }
+  ]
+}
